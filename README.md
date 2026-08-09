@@ -266,7 +266,4 @@ Projeto desenvolvido a partir do desafio proposto.
 
 # 👨‍💻 Autor
 
-Desenvolvido com 💙 por **Shilluê**
-
-- GitHub: https://github.com/Shillue
-- LinkedIn: https://www.linkedin.com/in/shillu%C3%AA/
+Desenvolvido com 💙 por  [Shilluê](https://www.linkedin.com/in/shillu%C3%AA/)
