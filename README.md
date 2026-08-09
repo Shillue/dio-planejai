@@ -222,11 +222,47 @@ Projeto desenvolvido a partir do desafio proposto.
 
 ---
 
+
 # 🖼️ Pré-visualização
 
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/098825d0-a43c-4935-90dc-2cde983d0481" alt="Tela Nova Simulação - Renda" width="200" height="120" >
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/a3561bc4-136f-4a4f-892b-7c0b729d46f0" alt="Tela Nova Simulação - Custo" width="200" height="120">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ecadd3ca-f2fb-4b25-aeb9-a2624f0c8fd2" alt="Tela Nova Simulação - Dívidas" width="200" height="120">
+    </td>
+		<td align="center">
+      <img src="https://github.com/user-attachments/assets/f7c40c81-d95c-409e-8022-bb721da9d986" alt="Tela Nova Simulação - Meta" width="200" height="120">
+    </td>
+		<td align="center">
+      <img src="https://github.com/user-attachments/assets/8b854d15-93a5-4d6b-85a3-f6f25023a884" alt="Tela Nova Simulação - Custo da Meta" width="200" height="120">
+    </td>
+  </tr>
+	 <td align="center">
+      <img src="https://github.com/user-attachments/assets/80055f07-0c51-4b3e-92b3-a6d029cbe259" alt="Tela Nova Simulação - Prazo" width="200" height="120" >
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/fb00b7ad-1334-4cb2-9e49-600eadb89539" alt="Tela de Resultado da Simulação" width="200" height="120">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/4fede899-fb25-471d-a3be-1c5b527ab6b5" alt="Tela Histórico de Simulações" width="200" height="120">
+    </td>
+		<td align="center">
+      <img src="https://github.com/user-attachments/assets/95a5350a-a16a-4af2-8bc4-7b3bdd11fa13" alt="Função Conversando IA" width="200" height="120">
+    </td>
+		<td align="center">
+      <img src="https://github.com/user-attachments/assets/b0211cc9-2262-4fa4-a0f3-50c3d99d6bdf" alt="Tela Nova Simulação - Renda | Com o Tema Dark" width="200" height="120">
+    </td>
+  </tr>
+</table>
 
 ---
+
 
 # 👨‍💻 Autor
 
