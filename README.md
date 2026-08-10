@@ -168,7 +168,7 @@ src
 ├── assets
 ├── components
 │   ├── features
-│		├── layout
+│	├── layout
 │   └── shared
 ├── context
 ├── data
